@@ -1,7 +1,7 @@
 <h1 align="center">
     Projeto Fatec automotive</h1>
     <br>
-![Gif de apresentação](apresentacao.gif)
+![Gif de apresentação]https://github.com/Guilherme-Felicio/FatecAutomotive/blob/main/apresentacao.gif)
    
 <h2>
    ℹ️Sobre
