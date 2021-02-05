@@ -10,9 +10,10 @@
 
 <h3>Pré-requisitos</h3>
 
-<p>Para vizualizar a planilha é necesário ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a><br>
-Para vizualizar o relatório é necessário ter algum editor de documentos.</p>
-
+<ul>
+    <li>>Para vizualizar a planilha é necesário ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a></li>
+    <li>Para vizualizar o relatório é necessário ter algum editor de documentos.</li>
+</ul>
 
 
 <h2>❓Como baixar</h2>
