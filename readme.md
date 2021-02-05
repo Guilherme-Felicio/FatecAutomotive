@@ -5,8 +5,8 @@
 <h2>
    ℹ️Sobre
 </h2>
-    O projeto foi realizado no 1° semestre do curso de ánalise e desenvolvimento de sistemas da fatec Sorocaba. Ele consiste em um sistema feito para uma empresa fictícia, na qual está estudando a possibilidade de aumento de salário de seus funconários. Diante disso o sistema faz o cálculo do novo salário dos funcioários, incluindo cálculos de INSS e IRRF, e gera gráficos fazendo comparativos entre os antigos salários e os novos. <br>
-    Há também um relatório com o levantamento das necessidades do ciente que contém mais informações sobre os cálculos e o sistema.
+    O projeto foi realizado no 1° semestre do curso de ánalise e desenvolvimento de sistemas da fatec Sorocaba. Ele consiste em um sistema feito para uma empresa fictícia, na qual está estudando a possibilidade de aumento de salário de seus funconários. Diante disso o sistema faz o cálculo do novo salário dos funcionários, incluindo cálculos de INSS e IRRF, e gera gráficos fazendo comparativos entre os antigos salários e os novos. <br>
+    Há também um relatório com o levantamento das necessidades do cliente que contém mais informações sobre os cálculos e o sistema.
 
 <h3>Pré-requisitos</h3>
 
