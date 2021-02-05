@@ -1,7 +1,8 @@
 <h1 align="center">
     Projeto Fatec automotive</h1>
     <br>
-    <video src="./github/videos/apresentacao.mp4"></video>
+    ![gif de apresentação]( https://github.com/Guilherme-Felicio/FatecAutomotive/blob/main/github/gif/apresentacao.gif)
+   
 <h2>
    ℹ️Sobre
 </h2>
