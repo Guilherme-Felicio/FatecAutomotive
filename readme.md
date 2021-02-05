@@ -1,7 +1,7 @@
 <h1 align="center">
     Projeto Fatec automotive</h1>
     <br>
-    ![gif de apresentação]( https://github.com/Guilherme-Felicio/FatecAutomotive/blob/main/github/gif/apresentacao.gif)
+![sei la](./github/gif/apresentacao.gif)
    
 <h2>
    ℹ️Sobre
@@ -18,7 +18,7 @@ Para vizualizar o relatório é necessário ter algum editor de documentos.</p>
 
 <h2>❓Como baixar</h2>
 Você pode fazer o download desse repositório através do Github clicando em:<br>
-code-> download zip
+code-> download zip 
 
 Ou também pode clonar esse repositório através do gitbash digitando:<br>
 git clone https://github.com/Guilherme-Felicio/FatecAutomotive
