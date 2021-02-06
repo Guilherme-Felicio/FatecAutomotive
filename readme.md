@@ -1,5 +1,5 @@
 <h1 align="center">
-    🚗Projeto Fatec automotive📊</h1>
+    📊Projeto Fatec automotive🚗</h1>
     <img src="apresentacao.gif" alt="Gif de apresentação">
    
 <h2>
