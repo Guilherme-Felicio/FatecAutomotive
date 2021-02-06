@@ -25,7 +25,7 @@
     <li>Você pode fazer o download desse repositório através do Github clicando em:<br>
         code-> download zip </li>
     <li>Ou também pode clonar esse repositório através do gitbash digitando:<br>
-        git clone https://github.com/Guilherme-Felicio/FatecAutomotive</li>
+        git clone https://github.com/Guilherme-Felicio/FatecAutomotive.git</li>
 </ul>
 
 
